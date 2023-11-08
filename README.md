@@ -41,7 +41,7 @@ This repository and its content are provided under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-This work has been supported by [Funding Agency Name], grant number [grant number]. We extend our sincere gratitude to the agency for their financial support and belief in our project.
+This work has been supported by the Department of Energy (DOE), grant number DOE-SC0024099. We extend our sincere gratitude to the agency for their financial support and belief in our project.
 
 
 ## Citation
