@@ -38,10 +38,23 @@ We welcome contributions from the scientific and engineering communities. If you
 
 This repository and its content are provided under the [MIT License](LICENSE).
 
+
+## Acknowledgments
+
+This work has been supported by [Funding Agency Name], grant number [grant number]. We extend our sincere gratitude to the agency for their financial support and belief in our project.
+
+
+## Citation
+
+If you use the Perovskene materials data or the computational models provided in this repository for your research, please kindly acknowledge it by citing:
+
+1. C. E. Ekuma (2023). Perovskene Materials Data and Models [Data set]. GitHub Repository. Available at: [PerovskeneMaterialDatabase](https://github.com/gmp007/perovskene-materials)
+
+
+
 ## Contact
 
-Should you have any inquiries or require further assistance, please contact us at [cekuma1@gmail.com](mailto:cekuma1@gmail.com)
-.
+Should you have any inquiries or require further assistance, please contact us at [cekuma1@gmail.com](mailto:cekuma1@gmail.com).
 
 Thank you for your interest in our Perovskene materials research.
 
