@@ -50,7 +50,7 @@ If you use the Perovskene materials data or the computational models provided in
 ```latex
 @Article{ekuma_synthesis,
   author = {Ekuma, Chinedu Ekuma},
-    title = "{Computational synthesis of a new generation of 2D-based perovskite quantum materials}",
+    title = {Computational synthesis of a new generation of 2D-based perovskite quantum materials},
     journal = {APL Machine Learning},
     volume = {2},
     number = {2},
