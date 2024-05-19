@@ -59,7 +59,7 @@ If you use the Perovskene materials data or the computational models provided in
     month = {04},
     doi = {10.1063/5.0189497},
     url = {https://doi.org/10.1063/5.0189497},
-    eprint = {https://pubs.aip.org/aip/aml/article-pdf/doi/10.1063/5.0189497/19865006/026102\_1\_5.0189497.pdf},
+    eprint = {https://pubs.aip.org/aip/aml/article-pdf/doi/10.1063/5.0189497/19865006/026102\_1\_5.0189497.pdf}
 }
 ```
 
@@ -69,7 +69,7 @@ If you use the Perovskene materials data or the computational models provided in
   title        = {Perovskene Materials Data and Models [Data set]},
   year         = {2023},
   howpublished = {\url{https://github.com/gmp007/perovskene-materials}},
-  note         = {GitHub Repository. Available at: \href{https://github.com/gmp007/perovskene-materials}{PerovskeneMaterialDatabase}},
+  note         = {GitHub Repository. Available at: \href{https://github.com/gmp007/perovskene-materials}{PerovskeneMaterialDatabase}}
 }
 ```
 
