@@ -47,8 +47,31 @@ This work was supported by the U.S. Department of Energy, Office of Science, Bas
 ## Citation
 
 If you use the Perovskene materials data or the computational models provided in this repository for your research, please kindly acknowledge it by citing:
+```latex
+@Article{ekuma_synthesis,
+  author = {Ekuma, Chinedu Ekuma},
+    title = "{Computational synthesis of a new generation of $2D$-based perovskite quantum materials}",
+    journal = {APL Machine Learning},
+    volume = {2},
+    number = {2},
+    pages = {026102},
+    year = {2024},
+    month = {04},
+    doi = {10.1063/5.0189497},
+    url = {https://doi.org/10.1063/5.0189497},
+    eprint = {https://pubs.aip.org/aip/aml/article-pdf/doi/10.1063/5.0189497/19865006/026102\_1\_5.0189497.pdf},
+}
+```
 
-1. C. E. Ekuma (2023). Perovskene Materials Data and Models [Data set]. GitHub Repository. Available at: [PerovskeneMaterialDatabase](https://github.com/gmp007/perovskene-materials)
+```latex
+@misc{ekuma2023perovskene,
+  author       = {C. E. Ekuma},
+  title        = {Perovskene Materials Data and Models [Data set]},
+  year         = {2023},
+  howpublished = {\url{https://github.com/gmp007/perovskene-materials}},
+  note         = {GitHub Repository. Available at: \href{https://github.com/gmp007/perovskene-materials}{PerovskeneMaterialDatabase}},
+}
+```
 
 
 
